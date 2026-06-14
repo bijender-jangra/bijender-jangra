@@ -4,6 +4,7 @@ All about me
 ### Hi there, I'm <a href="https://skst.in" target="_blank">Bijender Jangra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bijender-jangra/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/biju_.1503?igsh=NXV2Njhwdno5Nm4w)
 
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
