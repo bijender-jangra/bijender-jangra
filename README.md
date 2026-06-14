@@ -8,23 +8,20 @@ All about me
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
 
-Meet me, Bijender Jangra. I am Aspiring Data Analyst.
+Meet me, Bijender Jangra. Iam Aspiring Data Analyst with a strong interest in transforming data into actionable insights.
+
+💡 Skilled in Microsoft Excel, Power Query, Pivot Tables, Dashboard Development, and Data Visualization.
+
+📈 Passionate about solving business problems through data-driven decision making.
 
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently Learning Data Analytics Course;
-- 🚀 I’m Happy to learn New Skills;
-- 💬 Ask me about anything, I am happy to help;
-
-
+- 🚀 My goal is to build a career in Data Analytics and Business Intelligence.
+- 🌱 Currently learning SQL and Power BI.
+- ⚡ Fun Fact: I enjoy transforming messy data into meaningful stories.
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
 
 
 📈 **My GitHub Stats:**
